@@ -17,3 +17,5 @@ dependencies:
   - jupytext
   - rise
 prefix: /opt/conda
+
+
