@@ -6,9 +6,9 @@ The dataset used in this project is a credit card client information dataset, wh
 Python version is 3.7.8
 
 ## Package Version
-numpy version 1.18.5 
-matplotlib version 3.2.2 
-sklearn version 0.23.1 
-pandas version 1.0.5
-xgboost version 1.1.1 
-shap version 0.35.0
+numpy version 1.18.5      
+matplotlib version 3.2.2        
+sklearn version 0.23.1       
+pandas version 1.0.5       
+xgboost version 1.1.1       
+shap version 0.35.0         
