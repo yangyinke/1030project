@@ -1,4 +1,4 @@
-# 1030project
+# Credit Card Client Status Prediction
 ## Overview
 The dataset used in this project is a credit card client information dataset, which includes clients’ personal information as well as their payment status (paid off, no loan or overdue). It is derived from combing application record dataset with credit record dataset. The problem to be solved in this project is to predict whether a client is a risk user given his/her personal information. Therefore, the target variable in this project is whether a client is a risk user or not. It is a classification problem because it classifies clients into two groups: risk user and risk-free user. It is an interesting problem because it can be applied to credit card approval process. Credit card institution can predict the credit status of applicants given their personal information and avoid approving the application from risk users.
 
